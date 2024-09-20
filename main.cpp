@@ -1,5 +1,7 @@
 #include <iostream>
 int main()
-{
-	std::cout << "print yellow world";
+{`
+	// print some text
+	std::cout << "print yellow world\n";
+	std::cout << "Hello world!\n";
 }
